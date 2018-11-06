@@ -1,0 +1,83 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:colorwh-True Color]
+DWG=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\colorwh.dwg
+Layout=True Color
+Setup=
+OriginalSheetPath=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\colorwh.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Dimension Example-NO-DIM]
+DWG=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\Dimension Example.dwg
+Layout=NO-DIM
+Setup=
+OriginalSheetPath=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\Dimension Example.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Dimension Example-DIMENSION]
+DWG=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\Dimension Example.dwg
+Layout=DIMENSION
+Setup=
+OriginalSheetPath=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\Dimension Example.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Dimension Example-STYLES]
+DWG=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\Dimension Example.dwg
+Layout=STYLES
+Setup=
+OriginalSheetPath=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\Dimension Example.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:architectural_-_annotation_scaling_and_multileaders-SECTIONS AND DETAILS]
+DWG=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\architectural_-_annotation_scaling_and_multileaders.dwg
+Layout=SECTIONS AND DETAILS
+Setup=
+OriginalSheetPath=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\architectural_-_annotation_scaling_and_multileaders.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:architectural_example-imperial-Layout1]
+DWG=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\architectural_example-imperial.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\architectural_example-imperial.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:colorwh-AutoCAD Color Index]
+DWG=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\colorwh.dwg
+Layout=AutoCAD Color Index
+Setup=
+OriginalSheetPath=C:\Users\bcbenton\Google Drive\Infinite Skills\AutoCAD 2015 Beginers\Projects\13\colorwh.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\bcbenton\documents\Drawing1.dwfx
+OUT=C:\Users\bcbenton\documents\
+PWD=
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Unnamed Profile>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 0
